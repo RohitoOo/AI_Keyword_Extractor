@@ -1,6 +1,8 @@
 import React from "react";
 import { Heading, Image, Text } from "@chakra-ui/react";
 import logo from "../assets/light-bulb.svg";
+import Footer from "./Footer";
+import TextInput from "../components/TextInput";
 const Header = () => {
   return (
     <>
